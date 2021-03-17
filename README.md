@@ -96,4 +96,4 @@ Alot more can get done when everyone knows what to do and is all working indepen
 Submit a pull request on this repo with 3 project ideas to discuss in class tommorrow. 
 
 * You can put them in this markdown or a separate file if you wish. 
-* Every Group member should submit a pull request and turn it in to the Google Classroomk 
+* Every Group member should submit a pull request and turn it in to the Google Classroom
