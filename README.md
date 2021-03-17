@@ -52,14 +52,8 @@ Begin planning out the structure
 * Your group will need a **git manager** -- this person will oversee the project repos, pull requests and help group members wil git related issues
     * the git manager will need to assist the whole group with difficult issues -- this person should be eager to develop a more in depth knowledge of git by facing challenging bugs
 * Your group will need a **SCRUM manager** -- this person will oversee daily sprints and make sure everyone is on track and working together
-    * the SCRUM manager needs to maintain a good overall sense of project progression
-    * this is a challenging role, and requires a fair bit of organization and diplomacy
-* your group will need **developer roles** 
-    * Are you going to assign roles for group members to be primarialy *fontend* or *backend*?
-    * Would having *fullstack developer* roles work better? If you choose thise route
-    * How will you manage git workflow in either case?
 * *successful teams emphasize the strengths of team members* talk about your strenghts and interests -- what does each team member bring to the table?
-* 
+
 **For example, you could discuss:**
 * who is best at/likes backend more
 * who likes frontend?
@@ -93,7 +87,9 @@ Alot more can get done when everyone knows what to do and is all working indepen
 
 ## Deliverable Submission
 
-Submit a pull request on this repo with 3 project ideas to discuss in class tommorrow. 
+Turn three of your favorite ideas into **elevator pitches**, -- *a one to two minute presentation per idea that conveys the why and how of your product, as well as the APIs and technologies that you plan on using to realize your this idea.*
 
-* You can put them in this markdown or a separate file if you wish. 
-* Every Group member should submit a pull request and turn it in to the Google Classroom
+* Example format: *When TARGET USERS want/need THIS THING, I help provide them a solution by DOING THIS. I will be leveraging THESE TECHNOLOGIES* - [Kayla Abanda](https://kaylabanda.com/2020/03/09/the-easiest-way-to-create-a-killer-elevator-pitch/)
+* Your git manager should submit a pull request on this repo with your **elevator pitches** written in this markdown or separate file.
+* Be prepared to give your **elevator ptich** in class as a group to complete this deliverable.
+
