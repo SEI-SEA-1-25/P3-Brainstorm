@@ -86,7 +86,7 @@ A lot more can get done when everyone knows what to do and is all working indepe
 
 ## Deliverable Submission
 
-Turn three of your favorite ideas into **elevator pitches**, -- _a one to two minute presentation per idea that conveys the why and how of your product, as well as the APIs and technologies that you plan on using to realize your this idea._
+Turn three of your favorite ideas into **elevator pitches**, -- _a one to two minute presentation per idea that conveys the why and how of your product, as well as the APIs and technologies that you plan on using to realize this idea._
 
 - Example format: _When TARGET USERS want/need THIS THING, I help provide them a solution by DOING THIS. I will be leveraging THESE TECHNOLOGIES_ - [Kayla Abanda](https://kaylabanda.com/2020/03/09/the-easiest-way-to-create-a-killer-elevator-pitch/)
 - Your git manager should submit a pull request on this repo with your **elevator pitches** written in this markdown or separate file.
