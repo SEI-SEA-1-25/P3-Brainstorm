@@ -1,0 +1,20 @@
+Hi!
+
+I am the GIT MASTER.
+
+Idea #1- The Fortune Teller Themed App:
+This app will be multi-page. Each page, in a sense, showcases different things we have learned in class. 
+There will be a log in page that goes to the user's homepage. The user from there will have a navigation bar 
+that links to a magic 8 ball page (local mongo database generate randomly to give answers to the user's questions),
+a crystal ball page (may link to an existing api, and randomly generate that "wisdom") and a tarot card page 
+(this page will be using logic and be kind of like a choose you own adventure game).
+This format would be easily split between 4 people. Each person could have a page to work on.
+
+Idea #2- Diet Tumblr App:
+Based on the app Tumblr, it would look very similar but be instead of blue its purple. Standard blog posts
+with a profile and dashboard. You are able to re-blog post and comment on them. No api required. Would feature
+a log in page.
+
+Idea #3- Messenger App:
+Allows you to connect with other people via hobbies and interests. Would feature
+a log in page. Maybe use a foreign api.
